@@ -25,7 +25,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  width: 1440px;
+  max-width: 1200px;
   padding: 24px 0;
   margin: auto;
   gap: 24px;
